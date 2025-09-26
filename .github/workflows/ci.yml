@@ -65,6 +65,3 @@ jobs:
           extract_dir: dist
       - name: Test Similarity
         run: scripts/e2e-integration-test.sh
-          extract_dir: dist
-      - name: Test Similarity
-        run: scripts/e2e-integration-test.sh
